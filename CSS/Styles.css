@@ -1,0 +1,49 @@
+body {
+  background-color: #000000;
+}
+
+hr {
+  border: none;
+  border-top: 9px dotted #666666;
+  width: 9%;
+}
+
+h1 {
+  color: #66dfdf;
+}
+
+h2 {
+  color: #66bfbf;
+}
+
+p {
+  color: #aaaaaa;
+}
+
+li {
+  color: #aaaaaa;
+}
+
+td {
+  color: #aaaaaa;
+}
+
+th {
+  color: #66bfbf;
+}
+
+a {
+  color: #dddddd;
+}
+
+label {
+  color: #aaaaaa;
+}
+
+input {
+  background-color: #999999;
+}
+
+textarea {
+  background-color: #999999;
+}
